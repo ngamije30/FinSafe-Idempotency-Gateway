@@ -132,7 +132,7 @@ sequenceDiagram
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/idempotency-gateway.git
+git clone https://github.com/ngamije30/FinSafe-Idempotency-Gateway.git
 cd idempotency-gateway
 
 # 2. Create and activate a virtual environment
