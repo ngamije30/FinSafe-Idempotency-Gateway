@@ -3,6 +3,8 @@
 > **A production-grade payment middleware that guarantees every transaction is processed exactly once, no matter how many times the client retries.**
 
 Built with **FastAPI · Python 3.12 · asyncio** — includes an interactive browser dashboard for real-time testing.
+**Live Demo:** [https://finsafe-idempotency-gateway.onrender.com](https://finsafe-idempotency-gateway.onrender.com)  
+ **API Docs:** [https://finsafe-idempotency-gateway.onrender.com/docs](https://finsafe-idempotency-gateway.onrender.com/docs)
 
 ---
 
