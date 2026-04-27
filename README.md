@@ -135,19 +135,19 @@ sequenceDiagram
 git clone https://github.com/ngamije30/FinSafe-Idempotency-Gateway.git
 cd idempotency-gateway
 
-# 2. Create and activate a virtual environment
+# 2. Create and activate a virtual environment (Optional):
 python -m venv venv
 
-# On Mac/Linux:
+# On Mac/Linux (Optional):
 source venv/bin/activate
 
-# On Windows:
+# On Windows (Optional):
 venv\Scripts\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. (Optional) Copy environment variables file
+# 4. Copy the environment variables file (Optional)
 cp .env.example .env
 
 # 5. Start the server
